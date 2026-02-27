@@ -11,13 +11,14 @@ import { Docker } from "@/components/ui/svgs/docker";
 import { Kubernetes } from "@/components/ui/svgs/kubernetes";
 import { Java } from "@/components/ui/svgs/java";
 import { Csharp } from "@/components/ui/svgs/csharp";
+import LangChain from "@/components/ui/svgs/LangChain";
 
 export const DATA = {
-  name: "Dillion Verma",
-  initials: "DV",
+  name: "Kartik Jagdale",
+  initials: "KJ",
   url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  location: "Pune , India",
+  locationLink: "https://www.google.com/maps/place/pune",
   description:
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
@@ -32,7 +33,7 @@ export const DATA = {
     { name: "Go", icon: Golang },
     { name: "Postgres", icon: Postgresql },
     { name: "Docker", icon: Docker },
-    { name: "Kubernetes", icon: Kubernetes },
+    { name: "Langchain", icon: LangChain },
     { name: "Java", icon: Java },
     { name: "C++", icon: Csharp },
   ],
@@ -46,7 +47,7 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://dub.sh/heyy-kartik-github",
         icon: Icons.github,
         navbar: true,
       },
