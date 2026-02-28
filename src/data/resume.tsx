@@ -13,11 +13,11 @@ import { Java } from "@/components/ui/svgs/java";
 import { Csharp } from "@/components/ui/svgs/csharp";
 
 export const DATA = {
-  name: "Dillion Verma",
-  initials: "DV",
+  name: "Kartik Jagdale",
+  initials: "KJ",
   url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  location: "Pune , India",
+  locationLink: "https://www.google.com/maps/place/pune",
   description:
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
@@ -32,7 +32,7 @@ export const DATA = {
     { name: "Go", icon: Golang },
     { name: "Postgres", icon: Postgresql },
     { name: "Docker", icon: Docker },
-    { name: "Kubernetes", icon: Kubernetes },
+    { name: "Langchain", icon: Kubernetes },
     { name: "Java", icon: Java },
     { name: "C++", icon: Csharp },
   ],
