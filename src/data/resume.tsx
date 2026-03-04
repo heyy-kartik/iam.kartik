@@ -30,7 +30,7 @@ export const DATA = {
   description:
     "Software Engineer Who build Systems. I love building things and helping people. Fullstack | GenAI | DSA.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "I'm focused on building scalable infrastructure and systems that address real-world challenges. During my sophomore year, I developed projects like [Ecosia, TruckTales, and a video conferencing platform](/#projects), while participating in [4+ hackathons](/#hackathons) for the sheer enjoyment. I thrive on rapid experimentation, fast execution, and creating impactful technology",
   avatarUrl: "/me3.jpeg",
   skills: [
     { name: "React", icon: ReactLight },
@@ -111,7 +111,7 @@ export const DATA = {
       title: "Software Engineer",
       logoUrl: "/freelance.jpg",
       start: "January 2025",
-      end: { result },
+      end: "Present",
       description:
         "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
     },

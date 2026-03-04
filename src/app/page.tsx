@@ -35,7 +35,7 @@ export default function Page() {
             <BlurFade delay={BLUR_FADE_DELAY} className="order-1 md:order-2">
               <Avatar className="size-24 md:size-32 border rounded-full shadow-lg ring-4 ring-muted">
                 <AvatarImage
-                  className="w-[1310px] h-[130px]"
+                  className="w-327.5 h-32.5"
                   alt={DATA.name}
                   src={DATA.avatarUrl}
                 />
