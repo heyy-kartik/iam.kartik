@@ -185,12 +185,12 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
-      href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
+      title: "Ecosia",
+      href: "https://github.com/heyy-kartik/ecosia",
+      dates: "Sept 2025 - Nov 2025",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        "AI-driven educational platform represent a transformative approach to climate education, combining personalized learning experiences with cutting-edge technology to enhance climate awareness and knowledge retention.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -210,7 +210,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "https://pvdclpummwiunoleuxxs.supabase.co/storage/v1/object/public/portfolio-video-projects/Kartik%20Jagdale_s%20Video%20-%20Mar%204,%202026.mp4",
     },
     {
       title: "Magic UI",
