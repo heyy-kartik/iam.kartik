@@ -204,7 +204,12 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://github.com/heyy-kartik/ecosia",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github/heyy-kartik/ecosia",
           icon: <Icons.globe className="size-3" />,
         },
       ],
