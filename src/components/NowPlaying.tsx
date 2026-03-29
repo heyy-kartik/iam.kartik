@@ -87,7 +87,7 @@ export default function NowPlaying() {
         .np-art { width: 52px; height: 52px; border-radius: 6px; object-fit: cover; transition: border-radius 0.3s; }
         .np-art.playing { border-radius: 50%; animation: np-spin 8s linear infinite; }
         @keyframes np-spin { to { transform: rotate(360deg); } }
-        .np-ring { position: absolute; inset: -3px; border-radius: 50%; border: 2px solid transparent; border-top-color: #e31c23; animation: np-spin 2s linear infinite; }
+        .np-ring { position: absolute; inset: -3px; border-radius: 50%; border: 2px solid transparent; border-top-color: #1DB954; animation: np-spin 2s linear infinite; }
         .np-info { flex: 1; min-width: 0; }
         .np-label { display: flex; align-items: center; gap: 6px; font-size: 11px; color: #e31c23; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 4px; }
         .np-dot { width: 7px; height: 7px; background: #1DB954; border-radius: 50%; animation: np-pulse 1.4s ease-in-out infinite; }
